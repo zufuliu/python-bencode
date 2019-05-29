@@ -1,6 +1,5 @@
 from __future__ import print_function
 import sys
-import traceback
 from hashlib import sha1
 from bencode import bencode, bdecode
 
